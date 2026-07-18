@@ -30,6 +30,7 @@ markers:
   - {type: indent, offset: 13, content: 　　　, id: KR4d0481_krp_011-bkkind8}
   - {type: substitution, offset: 21, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 22, content: (, id: KR4d0481_krp_011-bkkpn1}
+  - {type: voice, offset: 22, length: 4, name: note, id: n1}
   - {type: substitution, offset: 24, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 26, content: /, id: KR4d0481_krp_011-bkkpn2}
   - {type: punctuation, offset: 26, content: ), id: KR4d0481_krp_011-bkkpn3}
@@ -941,6 +942,7 @@ markers:
   - {type: substitution, offset: 3201, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: substitution, offset: 3210, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 3211, content: (, id: KR4d0481_krp_011-bkkpn4}
+  - {type: voice, offset: 3211, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 3214, content: /, id: KR4d0481_krp_011-bkkpn5}
   - {type: punctuation, offset: 3214, content: ), id: KR4d0481_krp_011-bkkpn6}
   - {type: 'kr:newline', offset: 3214, content: '
@@ -1426,4 +1428,4 @@ markers:
 
       ', id: KR4d0481_krp_011-bkkkrnewl287}
   back: []
-hash: sha256:929cf3fa307de0e7f8fd5b03d3d558eb9bae5afa11c82c9b2597b1295927e3d8
+hash: sha256:23e2987501ee2cd8bc0c7d16001b9de357395b272a9b448be6a86067a637c6ea
